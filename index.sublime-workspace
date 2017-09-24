@@ -1,0 +1,370 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"statment"
+			],
+			[
+				"task",
+				"tasks"
+			],
+			[
+				"age",
+				"ageOfSomeone"
+			],
+			[
+				"bronca",
+				"bronca_completed"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"setT",
+				"setTimeout\t( handler: any, timeout?: long, arguments_..: any ): long Window"
+			],
+			[
+				"class",
+				"className\t: DOMString Element"
+			],
+			[
+				"getelem",
+				"getElementsByClassName\t( classNames: DOMString ): HTMLCollection Document"
+			],
+			[
+				"funct",
+				"function_without_name"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 889,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "functions.php",
+			"settings":
+			{
+				"buffer_size": 580,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.view.php",
+			"settings":
+			{
+				"buffer_size": 333,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 186.0,
+		"last_filter": "Snippet: this",
+		"selected_items":
+		[
+			[
+				"Snippet: this",
+				"Snippet: thisTab"
+			],
+			[
+				"php",
+				"PHPIntel: Scan Project"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"ui",
+				"UI: Select Skin"
+			],
+			[
+				"skins",
+				"Preferences: Skins Settings"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"agila",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Acer/AppData/Roaming/Sublime Text 3/Packages/User/thisTab.sublime-snippet",
+		"/C/Users/Acer/AppData/Roaming/Sublime Text 3/Packages/User/funcTab.sublime-snippet",
+		"/C/Users/Acer/Desktop/Projetos/php/index.view.php",
+		"/C/Users/Acer/Desktop/Projetos/php/functions.php",
+		"/C/Users/Acer/Desktop/Projetos/php/index.php",
+		"/C/wamp64/www/learning_php/functions.php",
+		"/C/wamp64/bin/mysql/mysql5.7.19/my.ini",
+		"/C/wamp64/bin/apache/apache2.4.27/bin/php.ini",
+		"/C/wamp64/www/learning_php/index.php",
+		"/C/wamp64/logs/mysql.log",
+		"/c/wamp64/logs/mysql.log",
+		"/C/wamp64/bin/mysql/mysql5.7.19/bin/mysql_config.pl",
+		"/C/wamp64/www/learning_php/index.view.php",
+		"/C/Users/Acer/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Acer/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/wamp64/www/index.php",
+		"/C/Users/Acer/Desktop/Projetos/php/phppath.cmd",
+		"/C/Users/Acer/Downloads/JavaScript30-master.zip",
+		"/C/Users/Acer/Desktop/Projetos/test.js",
+		"/C/Users/Acer/Desktop/Projetos/day1",
+		"/C/Users/Acer/AppData/Local/Temp/Temp1_JavaScript30-master.zip/JavaScript30-master/01 - JavaScript Drum Kit/index-START.html"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 121.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 889,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								755,
+								755
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 633.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "functions.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 580,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								574,
+								574
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 175.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.view.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 333,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								310,
+								310
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 185.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
